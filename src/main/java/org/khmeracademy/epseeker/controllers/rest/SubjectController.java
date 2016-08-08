@@ -37,4 +37,7 @@ public class SubjectController {
 		return subjectService.delete(subjectID);
 	}
 	
+	public boolean test(){
+		return false;
+	}
 }
